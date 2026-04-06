@@ -23,8 +23,8 @@ dependencies = [
 [project.urls]
 Homepage = "https://babelwrap.com"
 Documentation = "https://babelwrap.com/docs/quickstart"
-Repository = "https://github.com/soulfir/babelwrap-python"
-Issues = "https://github.com/soulfir/babelwrap-python/issues"
+Repository = "https://github.com/babelwrap/babelwrap-python"
+Issues = "https://github.com/babelwrap/babelwrap-python/issues"
 
 [build-system]
 requires = ["setuptools>=75"]
